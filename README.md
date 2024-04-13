@@ -13,3 +13,4 @@ This repository contains my solutions of different coding problems from NeetCode
 | **#5** | [Digit Classifier](https://neetcode.io/problems/handwritten-digit-classifier) | Medium | [Python](machine_learning/digit_classifier.py) |
 | **#6** | [Intro to Natural Language Processing](https://neetcode.io/problems/nlp-intro) | Medium | [Python](machine_learning/nlp_intro.py) |
 | **#7** | [Sentiment Analysis](https://neetcode.io/problems/sentiment-analysis) | Medium | [Python](machine_learning/sentiment_analysis.py) |
+| **#8** | [GPT Dataset](https://neetcode.io/problems/gpt-dataset) | Medium | [Python](machine_learning/gpt_dataset.py) |
