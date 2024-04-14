@@ -30,3 +30,4 @@ This repository contains my solutions of different coding problems from NeetCode
 | **#3** | [Multi Headed Self Attention](https://neetcode.io/problems/multi-headed-self-attention) | Medium | [Python](machine_learning/transformers/multiheaded_self_attention.py) |
 | **#4** | [Transformer Block](https://neetcode.io/problems/transformer-block) | Medium | [Python](machine_learning/transformers/transformer_block.py) |
 | **#5** | [Code GPT](https://neetcode.io/problems/code-gpt) | Medium | [Python](machine_learning/transformers/gpt_model.py) |
+| **#6** | [Make GPT Talk Back](https://neetcode.io/problems/make-gpt-talk-back) | Hard | [Python](machine_learning/transformers/gpt_response.py) |
