@@ -8,7 +8,10 @@ class Solution:
         generator = torch.manual_seed(0)
         initial_state = generator.get_state()
         for i in range(new_chars):
-
+            
+            if context.shape[1] > context_length:
+                context = context[:, -context_length:]
+            
             logits = model(context)
             logits = logits[:, -1, :]
             probas = nn.functional.softmax(logits, dim=-1)
